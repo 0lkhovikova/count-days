@@ -1,0 +1,16 @@
+.dataPicker {
+    padding-bottom: 8px;
+    display: flex;
+    align-items: center;
+}
+
+.dataPickerDivider {
+    width: 40px;
+    text-align: center;
+}
+
+.dataPickerDelete {
+    width: 40px;
+    text-align: center;
+    cursor: pointer;
+}
