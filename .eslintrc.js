@@ -22,6 +22,6 @@ module.exports = {
     ],
     "rules": {
         'react/react-in-jsx-scope': 0,
-        '@typescript-eslint/ban-ts-comment': 0
+        "no-debugger": 1,
     }
 }

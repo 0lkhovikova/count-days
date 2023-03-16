@@ -1,0 +1,7 @@
+.resultTable {
+    max-width: 500px
+}
+
+.resultTableRow:last-child td, .resultTableRow:last-child th {
+  border: 0
+}
